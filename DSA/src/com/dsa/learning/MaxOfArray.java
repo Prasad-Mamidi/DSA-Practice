@@ -1,4 +1,4 @@
-package com.prasad.dynamicArray;
+package com.prasad.learning;
 
 import java.util.Scanner;
 
