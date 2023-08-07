@@ -1,4 +1,4 @@
-package com.prasad.dynamicArray;
+package com.dsa.learning;
 
 import java.util.Arrays;
 
